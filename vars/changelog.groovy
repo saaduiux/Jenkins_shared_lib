@@ -5,5 +5,5 @@
 // }
 
 def changelog() {
-    echo "this is ${BUILD_NUMBER}"
+    echo "this is "
 }
